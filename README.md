@@ -1,2 +1,4 @@
 # ON-Demand-traffic-light
-Egyfwd 2nd project, It’s a traffic light that when a pedestrian press the button a specific sequence happens to allow him cross the road and prevent the cars from crossing during the time
+2nd project of FWD professional,
+It consists of two modes : normal and pedestrian 
+The system runs on normal mode until a pedestrian presses the button, then it will switch to pedestrian mode based on the current status of LEDs in normal mode
